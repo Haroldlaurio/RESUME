@@ -271,3 +271,19 @@ p {
   margin-top: 10%;
   justify-content: space-around;
 }
+
+a:link {
+  color: blue;
+}
+
+a:visited{
+  color: blue;
+}
+
+a:hover {
+  color: aqua ;
+}
+
+a:active {
+  color: hotpink;
+}
